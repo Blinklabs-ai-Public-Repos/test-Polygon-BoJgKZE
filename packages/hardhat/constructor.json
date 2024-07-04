@@ -1,1 +1,1 @@
-{"MyToken":[{"paramType":"string","paramName":"name_","value":"Burnable Token"},{"paramType":"string","paramName":"symbol_","value":"BURN"},{"paramType":"uint256","paramName":"initialSupply_","value":"1000000"}]}
+{"MyDogToken":[{"paramType":"string","paramName":"name_","value":"MyDogToken"},{"paramType":"string","paramName":"symbol_","value":"MDT"},{"paramType":"uint256","paramName":"initialSupply_","value":"1000000"}]}
