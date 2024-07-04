@@ -1,1 +1,1 @@
-{}
+{"MyToken":[{"paramType":"string","paramName":"name_","value":"Burnable Token"},{"paramType":"string","paramName":"symbol_","value":"BURN"},{"paramType":"uint256","paramName":"initialSupply_","value":"1000000"}]}
